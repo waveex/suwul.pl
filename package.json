@@ -1,7 +1,6 @@
 {
   "name": "suwul.pl",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "https://github.com/waveex/suwul.pl.git",
   "author": "Michał <michal.jablonski097@gmail.com>",
   "license": "MIT",
