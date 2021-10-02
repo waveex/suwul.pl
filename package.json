@@ -8,6 +8,14 @@
     "start": "parcel *.html",
     "build": "parcel build *.html"
   },
+  "params": {
+    "overrides": {
+      "convertShapeToPath": {
+        "convertArcs": true
+      },
+      "convertPathData": false
+    }
+  },
   "devDependencies": {
     "@parcel/config-default": "^2.0.0-rc.0",
     "@parcel/transformer-image": "^2.0.0-rc.0",
@@ -17,7 +25,8 @@
   },
   "dependencies": {
     "@parcel/transformer-html": "^2.0.0-alpha.3",
-    "parcel": "^2.0.0-rc.0"
+    "parcel": "^2.0.0-rc.0",
+    "postcss": "^8.3.8"
   },
   "resolutions": {
     "postcss": "^8.2.10",
