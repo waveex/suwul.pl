@@ -1,1 +1,0 @@
-// testowy komntarz potrzeny do commitu

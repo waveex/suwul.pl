@@ -1,35 +1,242 @@
 <!DOCTYPE html>
 <html lang="pl">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Suwul- Suwalski oddział fundacji Zdrowe Miasto</title>
-    <link rel="stylesheet" href="./style.css">
+    <title>Suwul - Suwalski oddział Fundacji Zdrowe Miasto
+    </title>
+    <meta name="description" content="Poznaj Fundację Zdrowe Miasto">
+    <link rel="stylesheet" href="./assets/css/main.scss">
+    <link rel="icon" type="image/png" href="./assets/img/favicin.ico"/>
 </head>
-<body>
-  <div class="wrap">
-        <div>
-  <div class="logo"><img class="alignnone size-medium wp-image-165" src="https://zdrowemiasto.org/wp-content/uploads/2020/12/Zdrowe_maisto_fundacja_logo_M.svg" alt="Logo Fundacji Zdrowe Miasto"  /></div>
-  <div class="content">
-    <div class="text">
-      <p class="text-title">Strona w przebudowie</p>
-      <p class="text-little">Zapraszamy wkrótce</p>
-      <div class="wp-block-column">
-        <h3>Fundacja Zdrowe Miasto</h3>
-        <h4 class="person">Monika Lipińska</h4>
-<p class="person__description">Koordynator projektów</p>
-        <p class="mail"><img class="alignnone size-medium wp-image-491" src="https://zdrowemiasto.org/wp-content/uploads/2020/12/fzm_mail.svg" alt="email"  /><a href="mailto:mlipinska@zdrowemiasto.org">mlipinska@zdrowemiasto.org</a></p>
-        <p class="phone"><img class="alignnone size-medium wp-image-489" src="https://zdrowemiasto.org/wp-content/uploads/2020/12/fzm_phone.svg" alt="telefon" /><a href="tel:+48691508000" data-type="tel" data-id="tel:+48669002332">+48 669 002 332</a></p>
-        <p class="biuro"><img class="alignnone size-medium wp-image-914" src="https://zdrowemiasto.org/wp-content/uploads/2021/08/fzm_office.svg" alt="" />Biuro: ul. Noniewicza 57, lok. 4a 16-400 Suwałki</p>
-        <p class="adres"><img class="alignnone size-medium wp-image-913" src="https://zdrowemiasto.org/wp-content/uploads/2021/08/fzm_house.svg" alt=""  />Zielona 2/27, 16-030 Ciasne, gm. Supraśl</p>
-      </div>
-    </div>
-    <div class="mm-bg"><img class="alignnone wp-image-906 size-large" src="https://zdrowemiasto.org/wp-content/uploads/2020/12/fzm_newsletter_1.svg" alt="" width="100%" height="100%" /></div>
-  </div>
-</div>
-</div>
-        <script src="./index.js"></script>
 
+<body>
+    <header class="header">
+        <a href="./" class="logo"></a>
+        <div id="hamburger" onclick="this.classList.toggle('open');">
+            <svg viewBox="0 0 100 100">
+                <path class="line line1" d="M 20,29.000046 H 80.000231 C 80.000231,29.000046 94.498839,28.817352 94.532987,66.711331 94.543142,77.980673 90.966081,81.670246 85.259173,81.668997 79.552261,81.667751 75.000211,74.999942 75.000211,74.999942 L 25.000021,25.000058" />
+                <path class="line line2" d="M 20,50 H 80" />
+                <path class="line line3" d="M 20,70.999954 H 80.000231 C 80.000231,70.999954 94.498839,71.182648 94.532987,33.288669 94.543142,22.019327 90.966081,18.329754 85.259173,18.331003 79.552261,18.332249 75.000211,25.000058 75.000211,25.000058 L 25.000021,74.999942" />
+            </svg>
+        </div>
+        <nav class="navigation">
+            <ul class="navigation__list">
+                <li class="navigation__list--item">
+                    <p  class="navigation__list--link">
+                        PROJEKTY
+                    </p>
+                    <div class="navigation__submenu">
+                      <ul class="navigation__list">
+                        <li class="navigation__list--item">
+                            <a href="./projekt-lokalnej-grupy-dzialania.html" class="navigation__list--link">
+                                Rewitalizacja społeczna na terenie Suwalsko – Sejneńskiej
+                                Lokalnej Grupy Działania
+                            </a>
+                        </li>
+                        <li class="navigation__list--item">
+                            <a href="./projekt-suwul.html" class="navigation__list--link">
+                                SUWUL
+                            </a>
+                        </li>
+                      </ul>
+                    </div>
+                </li>
+                <!-- <li class="navigation__list--item">
+                    <a href="./wydarzenia.html" class="navigation__list--link">
+                        WYDARZENIA
+                    </a>
+                </li> -->
+                <!-- <li class="navigation__list--item">
+                    <a href="./realizacje.html" class="navigation__list--link">
+                        REALIZACJE
+                    </a>
+                </li>
+                <li class="navigation__list--item">
+                    <a href="./kadra.html" class="navigation__list--link">
+                        KADRA
+                    </a>
+                </li> -->
+
+                <li class="navigation__list--item">
+                    <a href="./kontakt.html" class="navigation__list--link">
+                        KONTAKT
+                    </a>
+                </li>
+                <!-- <li class="navigation__list--item">
+                    <a href="" class="navigation__list--link">
+                        WESPRZYJ NAS
+                    </a>
+                </li> -->
+            </ul>
+        </nav>
+        <div class="social">
+            <ul class="social__list">
+                <li class="social__list--item">
+                    <a href="https://www.facebook.com/Klaster-Medyczny-111352092920612/"  rel="nofollow noopener noreferrer " target="_blank"  class="social__link social__link--facebook">
+
+                    </a>
+                </li>
+                   <li class="social__list--item">
+                    <a href="https://www.linkedin.com/company/medicalchatbot" rel="nofollow noopener noreferrer " target="_blank"   class="social__link social__link--linkedin">
+
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </header>
+    <main>
+        <section class="video">
+            <video autoplay muted loop id="video" class="video__item">
+                <source src="./assets/video/video.mp4" type="video/mp4">
+            </video>
+        </section>
+
+        <section class="hero about ">
+
+            <img src="/assets/img/onas_x2.png" alt="" class="hero__img">
+            <div class="hero__text">
+                <h1 class="hero__title ">
+                    O Suwalskim oddziale Fundacji Zdrowe Miasto
+                </h1>
+                <p class="hero__description">
+                    Suwalski Uniwersytet Ludowy to stowarzyszenie zwyczajne zarejestrowane w styczniu 2019.
+                    Jego celem statutowym jest rozwój kompetencji społecznych i obywatelski poprzez szerzenie
+                    ustawicznej edukacji w formie systematycznych zajęć uniwersytetu ludowego.
+                </p>
+                <h2 class=" hero__list--title ">
+                    Stowarzyszenie realizuje projekt
+                </h2>
+                <ul class="hero__list">
+                    <li class="hero__list--item">
+                        <p class="hero__list--caption">
+                            SUWUL
+                        </p>
+                        <p class="hero__list--text">
+                            rozwój kapitału ludzkiego i społecznego przez podnoszenie
+                            kompetencji społecznych i obywatelskich, czerpiąc z tradycji i
+                            bogactwa kulturowego Suwalskiej społeczności. Z Programu
+                            Wspierania Rozwoju Uniwersytetów Ludowych na lata 2020–2030
+                        </p>
+                    </li>
+                    <li class="hero__list--item">
+                        <p class="hero__list--caption">
+                            I PAL
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- <section class="newsletter">
+            <form action="submit" class="newsletter__form">
+                <p   class="newsletter__title">Zapisz się na newsletter i bądź na
+                    bieżąco</p>
+                <div class="newsletter__input--wraper">
+                    <input type="text" class="newsletter__input" placeholder="wpisz swój adres e-mail">
+                    <input type="submit" class="newsletter__submit" value="Zapisz się">
+                </div>
+            </form>
+            <img src="/assets/img/newsletter_1.png" alt="obraz osoby na rowerze" class="newsletter__img">
+
+        </section> -->
+        <section class="parallax-footer parallax">
+            <h2 class="parallax__title">
+              Porozmawiaj z nami
+            </h2>
+            <a href="./kontakt.html" class="parallax__button">
+                Dowiedz się więcej
+            </a>
+        </section>
+        <!-- <section class="contact">
+            <div class="contact__info">
+                <h2 class="contact__title">Porozmawiajmy</h2>
+                <p class="contact__description">
+                    Razem zadbajmy o przestrzeni, którą kochasz.
+                </p>
+                <div class="contact__info">
+                    <h3 class="contact__info--title">Fundacja Zdrowe Miasto</h3>
+                    <div class="contact__grid">
+                        <div class="contact__grid--item">
+                            <h4 class="contact__grid--title">
+                                Adres
+                            </h4>
+                            <p class="contact__grid--description">
+                                Zielona 2/27, 16-030 Ciasne, gm. Supraśl
+                            </p>
+                        </div>
+                        <div class="contact__grid--item">
+                            <h4 class="contact__grid--title">
+                                Biuro
+                            </h4>
+                            <p class="contact__grid--description">
+                                Alfa Centrum, ul. Świętojańska 15, 15-277 Białystok
+                            </p>
+                        </div>
+                        <div class="contact__grid--item">
+                            <h4 class="contact__grid--title">
+                                Telefon </h4>
+                            <p class="contact__grid--description">
+                                <a href="tel:+48691508000" class="contact__grid--link">+48 691 50 8000</a>
+                            </p>
+                        </div>
+                        <div class="contact__grid--item">
+                            <h4 class="contact__grid--title">
+                                E-mail
+                            </h4>
+                            <p class="contact__grid--description">
+                                <a href="mailto:biuro@zdrowemiasto.org"
+                                    class="contact__grid--link">biuro@zdrowemiasto.org</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+            <!-- <div class="contact__form">
+                <h2 class="contact__form--title contact__title">
+                    Napisz do nas
+                </h2>
+                <form method="POST" id="form">
+
+                    <input type="text" name="name" id="name" placeholder="Imię i nazwisko" required>
+                    <div class="contact__form--data">
+                        <div class="contact__form--item">
+                            <input type="text" name="topic" id="topic" placeholder="Temat" required>
+                        </div>
+                        <div class="contact__form--item">
+                            <input type="email" name="email" id="email" placeholder="Adres e-mail" required>
+                        </div>
+                        <div class="contact__form--item">
+                            <input type="text" name="textarea" id="message" placeholder="Treść" required>
+                        </div>
+                        <div class="contact__form--item contact__form--checkbox">
+                            <label for="checkbox">Deklaracja zgody na przetwarzanie danych osobowych zgodnie z
+                                ustawą.... deklaracja zgody na przetwarzanie danych osobowych zgodnie z ustawą....
+                            </label>
+                            <input type="checkbox" name="checkbox" id="checkbox" required>
+                        </div>
+                        <div class="contact__form--item">
+                            <input type="submit" name="submit" id="submit" value="Wyślij wiadomość">
+                        </div>
+                    </div>
+                </form>
+            </div> -->
+        </section>
+
+
+            </main>
+            <footer>
+                <img src="/assets/img/logo/fzm-top-white.png" alt="logo fundacji zdrowe miasto" class="footer__logo">
+                <p class="copyright">© 2021. Fundacja Zdrowe Miasto</p>
+
+
+                     <button   class="gotoup" title="Go to top"></button>
+            </footer>
+<script  src="./assets/js/smtp.js"></script>
+<script  src="./assets/js/main.js"></script>
+<script  src="./assets/js/form.js"></script>
 </body>
+
 </html>
