@@ -119,6 +119,10 @@ input[type="submit" i] {
         background-color: #01a79d;
     }
 }
+.image {
+    width: 100%;
+    height: auto;
+}
 header {
     margin: 0 auto;
     width: 100%;
@@ -132,13 +136,17 @@ header {
 }
 .logo {
     background: url(../img/logo/fzm-top-white.png) no-repeat;
-    background-size: cover;
+    background-size: contain;
     height: 44px;
     max-width: 210px;
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
     &:hover{
         background: url(../img/logo/fzm-top-green.png) no-repeat;
-        background-size: cover;
+        background-size: contain;
     }
 }
 
@@ -188,7 +196,7 @@ header {
 }
 .logos {
     margin: 0 auto;
-    max-width: 1680px;
+    max-width: 600px;
     margin-top: 10px;
 }
 .about {
@@ -286,6 +294,13 @@ header {
         }
     }
 }
+.link-img{
+    max-width: 200px;
+    &:hover{
+        transform: scale(1.1);
+    }
+}
+
 .hero {
     margin: 115px auto;
     max-width: 1630px;
@@ -309,6 +324,10 @@ header {
         font-weight: 400;
     }
     &__list {
+margin-top: 20px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
         &--caption{
             font-size: 22px;
            color: #01a79d;
@@ -463,11 +482,15 @@ header {
 }
 
 footer{
+
     background:#2D2D2D ;
     @include justifyCenter();
     justify-content: space-around;
     padding: 36px 0
 }
+.footer__logo{
+        max-width: 150px;
+    }
 .copyright {
     color: #fff;
 }
@@ -518,7 +541,7 @@ footer{
   }
   .dark  .logo {
     background: url(../img/logo/fzm-top-green.png) no-repeat;
-    background-size: cover;
+    background-size: contain;
   }
   /***************************RWD***************/
   .social{
@@ -548,11 +571,14 @@ margin-left: 10px;
       }
   }
   @media (max-width:1650px) {
-    .contact, .hero {
+    // .contact, .hero {
+    //     max-width: 1200px;
+    //     gap: 70px;
+    // }
+    .hero {
         max-width: 1200px;
-        gap: 70px;
+    margin-top: 0px;
     }
-
 }
 @media (max-width:1280px) {
    .hero, .contact, .newsletter{
@@ -570,6 +596,8 @@ margin-left: 10px;
 }
 @media (max-width: 1199px) {
     .hero{
+        max-width: 870px;
+        margin: 0 auto;
         &__title{
         text-align: center;
         }
@@ -657,6 +685,16 @@ margin-left: 10px;
 }
 
 @media (max-width:991px) {
+    header {
+        justify-content: space-evenly;
+    }
+    .hero__title{
+        font-size: 32px;
+    }
+    .hero__list--title {
+        text-align: center;
+
+    }
     .hero__list--item::before {
         background-size: contain;
     }
@@ -679,26 +717,27 @@ margin-left: 10px;
 
 }
 @media (max-width:768px) {
-    .social{
-        margin-top: 30px;
-    }
-    header {
-        flex-direction: column;
-    }
+
     .navigation {
         display: none;
         transition: 0.5s all;
-        position: relative;
+        position: absolute;
         width: 100%;
-        top: 20px;
+        top: 80px;
     }
     .contact, .hero {
         max-width: 300px;
 
     }
+    .parallax__title {
+        text-align: center;
+    }
     .statistics, .contact__grid,  .about__grid {
         display: flex;
         flex-direction: column;
+    }
+    .logos  {
+        max-width: 300px;
     }
 }
 

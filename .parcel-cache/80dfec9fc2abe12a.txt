@@ -1,4 +1,4 @@
-18297
+18317
 50C:\dev\suwul.pl\node_modules\has-ansi\node_modules132775816795526862 1
 33C:\dev\suwul.pl\node_modules\abab132775816809439984 1
 53C:\dev\suwul.pl\node_modules\string-hash\package.json132775816813530904 0
@@ -28,7 +28,7 @@
 62C:\dev\suwul.pl\node_modules\@parcel\utils\lib\PromiseQueue.js121436361000000000 0
 48C:\dev\suwul.pl\node_modules\uri-js\package.json132775816812130595 0
 60C:\dev\suwul.pl\node_modules\jsdom\lib\jsdom\living\aborting132775816754907749 1
-20C:\dev\suwul.pl\dist132776409939482415 1
+20C:\dev\suwul.pl\dist132778469521029180 1
 75C:\dev\suwul.pl\node_modules\caniuse-lite\data\features\css-nth-child-of.js121436361000000000 0
 25C:\dev\suwul.pl\.cache\42132775810014789800 1
 51C:\dev\suwul.pl\node_modules\lodash\_baseInRange.js121436361000000000 0
@@ -117,7 +117,7 @@
 51C:\dev\suwul.pl\node_modules\@parcel\diagnostic\lib132775816767050464 1
 62C:\dev\suwul.pl\node_modules\whatwg-mimetype\lib\serializer.js121436361000000000 0
 40C:\dev\suwul.pl\node_modules\unset-value132775816812830743 1
-28C:\dev\suwul.pl\kontakt.html132776394128706411 0
+28C:\dev\suwul.pl\kontakt.html132778463162573145 0
 98C:\dev\suwul.pl\node_modules\postcss-modules-local-by-default\node_modules\postcss\CONTRIBUTING.md121436361000000000 0
 105C:\dev\suwul.pl\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude132775816762479438 1
 48C:\dev\suwul.pl\node_modules\minimatch\README.md131004798210000000 0
@@ -154,8 +154,8 @@
 68C:\dev\suwul.pl\node_modules\core-js\es\typed-array\float32-array.js121436361000000000 0
 98C:\dev\suwul.pl\node_modules\sharp\vendor\8.10.6\include\freetype2\freetype\config\integer-types.h132612604640000000 0
 65C:\dev\suwul.pl\node_modules\caniuse-lite\dist\unpacker\region.js121436361000000000 0
-34C:\dev\suwul.pl\projekt-suwul.html132776393779435016 0
-26C:\dev\suwul.pl\index.html132776387325500003 0
+34C:\dev\suwul.pl\projekt-suwul.html132778450404094949 0
+26C:\dev\suwul.pl\index.html132778428049203115 0
 60C:\dev\suwul.pl\node_modules\postcss-ordered-values\dist\lib132775816764739942 1
 42C:\dev\suwul.pl\node_modules\relateurl\lib132775816764559911 1
 61C:\dev\suwul.pl\node_modules\is-accessor-descriptor\README.md130957681300000000 0
@@ -191,7 +191,7 @@
 33C:\dev\suwul.pl\package-lock.json132776409868214795 0
 43C:\dev\suwul.pl\node_modules\rimraf\LICENSE121436361000000000 0
 42C:\dev\suwul.pl\node_modules\node-abi\test132775817013217560 1
-53C:\dev\suwul.pl\projekt-lokalnej-grupy-dzialania.html132776393779435016 0
+53C:\dev\suwul.pl\projekt-lokalnej-grupy-dzialania.html132778469344809285 0
 85C:\dev\suwul.pl\node_modules\sharp\vendor\8.10.6\include\freetype2\freetype\ftsizes.h132612604640000000 0
 77C:\dev\suwul.pl\node_modules\core-js\features\string\virtual\code-point-at.js121436361000000000 0
 50C:\dev\suwul.pl\node_modules\lodash\fp\isFinite.js121436361000000000 0
@@ -232,7 +232,7 @@
 48C:\dev\suwul.pl\node_modules\is-windows\index.js131630669110000000 0
 70C:\dev\suwul.pl\node_modules\caniuse-lite\data\features\svg-filters.js121436361000000000 0
 44C:\dev\suwul.pl\node_modules\json-schema\lib132775816773381889 1
-31C:\dev\suwul.pl\wydarzenia.html132776393779435016 0
+31C:\dev\suwul.pl\wydarzenia.html132778404596911441 0
 59C:\dev\suwul.pl\node_modules\core-js\features\array\fill.js121436361000000000 0
 25C:\dev\suwul.pl\.cache\fe132755162123607620 1
 50C:\dev\suwul.pl\node_modules\events\tests\index.js121436361000000000 0
@@ -3264,7 +3264,7 @@
 45C:\dev\suwul.pl\node_modules\pump\.travis.yml131553386220000000 0
 51C:\dev\suwul.pl\node_modules\word-wrap\package.json132775816810900312 0
 60C:\dev\suwul.pl\node_modules\caniuse-lite\data\regions\LC.js121436361000000000 0
-43C:\dev\suwul.pl\dist\go-to-top.6d44ebee.png132776393783476176 0
+43C:\dev\suwul.pl\dist\go-to-top.6d44ebee.png132778456582626394 0
 48C:\dev\suwul.pl\node_modules\word-wrap\README.md131274891740000000 0
 77C:\dev\suwul.pl\node_modules\es-abstract\2019\AbstractRelationalComparison.js121436361000000000 0
 51C:\dev\suwul.pl\node_modules\utils-merge\.npmignore131503400650000000 0
@@ -3466,7 +3466,7 @@
 43C:\dev\suwul.pl\node_modules\verror\LICENSE131201105760000000 0
 52C:\dev\suwul.pl\node_modules\css-what\lib\parse.d.ts121436361000000000 0
 74C:\dev\suwul.pl\node_modules\set-value\node_modules\extend-shallow\LICENSE130698002010000000 0
-38C:\dev\suwul.pl\dist\index.18c7861a.js132776409939432384 0
+38C:\dev\suwul.pl\dist\index.18c7861a.js132778469520969160 0
 72C:\dev\suwul.pl\node_modules\htmlparser2\node_modules\entities\readme.md121436361000000000 0
 69C:\dev\suwul.pl\node_modules\core-js\internals\install-error-cause.js121436361000000000 0
 44C:\dev\suwul.pl\node_modules\acorn\README.md121436361000000000 0
@@ -3736,6 +3736,7 @@
 42C:\dev\suwul.pl\node_modules\urix\index.js130381808050000000 0
 49C:\dev\suwul.pl\node_modules\lodash\fp\trimEnd.js121436361000000000 0
 56C:\dev\suwul.pl\node_modules\svgo\plugins\removeTitle.js121436361000000000 0
+47C:\dev\suwul.pl\assets\img\logo\logo-niw-ul.png132778448115506114 0
 63C:\dev\suwul.pl\node_modules\@babel\traverse\scripts\generators132775816762629471 1
 50C:\dev\suwul.pl\node_modules\is-callable\README.md121436361000000000 0
 65C:\dev\suwul.pl\node_modules\caniuse-lite\data\features\tls1-2.js121436361000000000 0
@@ -4145,6 +4146,7 @@
 57C:\dev\suwul.pl\node_modules\type-fest\source\opaque.d.ts121436361000000000 0
 47C:\dev\suwul.pl\node_modules\lodash\fp\defer.js121436361000000000 0
 70C:\dev\suwul.pl\node_modules\uncss\node_modules\postcss\lib\comment.js121436361000000000 0
+39C:\dev\suwul.pl\dist\index.12bc713a.css132778469520969160 0
 74C:\dev\suwul.pl\node_modules\htmlnano\node_modules\postcss\lib\tokenize.js121436361000000000 0
 90C:\dev\suwul.pl\node_modules\postcss-modules-scope\node_modules\source-map\source-map.d.ts131369414910000000 0
 64C:\dev\suwul.pl\node_modules\svgo\plugins\removeEditorsNSData.js121436361000000000 0
@@ -6405,6 +6407,7 @@
 67C:\dev\suwul.pl\node_modules\css-tree\lib\syntax\node\MediaQuery.js121436361000000000 0
 77C:\dev\suwul.pl\node_modules\is-data-descriptor\node_modules\kind-of\index.js131375939560000000 0
 88C:\dev\suwul.pl\node_modules\postcss-modules-extract-imports\node_modules\supports-color132775816815941441 1
+70C:\dev\suwul.pl\dist\projekt-lokalnej-grupy-dzialania.58dc546b.css.map132778469521019178 0
 75C:\dev\suwul.pl\node_modules\diffie-hellman\node_modules\bn.js\package.json132775816820202401 0
 46C:\dev\suwul.pl\node_modules\lodash\fp\head.js121436361000000000 0
 84C:\dev\suwul.pl\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gio\gdbusaddress.h132612604640000000 0
@@ -6729,6 +6732,7 @@
 71C:\dev\suwul.pl\node_modules\@parcel\core\src\requests\DevDepRequest.js121436361000000000 0
 84C:\dev\suwul.pl\node_modules\sharp\vendor\8.10.6\include\freetype2\freetype\tttags.h132612604640000000 0
 54C:\dev\suwul.pl\node_modules\dotenv-expand\lib\main.js121436361000000000 0
+45C:\dev\suwul.pl\dist\logo-niw-ul.848cab6c.png132778456581446131 0
 68C:\dev\suwul.pl\node_modules\core-js\proposals\collection-of-from.js121436361000000000 0
 93C:\dev\suwul.pl\node_modules\sharp\vendor\8.10.6\include\freetype2\freetype\config\ftheader.h132612604640000000 0
 80C:\dev\suwul.pl\node_modules\hash-base\node_modules\readable-stream\lib\internal132775816754857733 1
@@ -8186,6 +8190,7 @@
 48C:\dev\suwul.pl\node_modules\lodash\camelCase.js121436361000000000 0
 92C:\dev\suwul.pl\node_modules\postcss-modules-extract-imports\node_modules\chalk\templates.js121436361000000000 0
 85C:\dev\suwul.pl\node_modules\postcss-modules-extract-imports\node_modules\chalk\types132775816765920214 1
+47C:\dev\suwul.pl\dist\fzm-top-green.16c7f97d.png132778469507986251 0
 46C:\dev\suwul.pl\node_modules\@parcel\cache\src132775816752247141 1
 94C:\dev\suwul.pl\node_modules\postcss-modules-extract-imports\node_modules\ansi-styles\index.js131644568170000000 0
 76C:\dev\suwul.pl\node_modules\htmlparser2\node_modules\entities\lib\encode.js121436361000000000 0
@@ -8257,6 +8262,7 @@
 61C:\dev\suwul.pl\node_modules\core-js\modules\es.math.trunc.js121436361000000000 0
 56C:\dev\suwul.pl\node_modules\core-js\es\reflect\index.js121436361000000000 0
 86C:\dev\suwul.pl\node_modules\@parcel\packager-css\node_modules\postcss\lib\result.d.ts121436361000000000 0
+43C:\dev\suwul.pl\dist\index.12bc713a.css.map132778469521009175 0
 48C:\dev\suwul.pl\node_modules\lru-cache\README.md121436361000000000 0
 84C:\dev\suwul.pl\node_modules\postcss-modules\node_modules\postcss-modules-values\src132775816764409870 1
 59C:\dev\suwul.pl\node_modules\core-js\features\date\index.js121436361000000000 0
@@ -9339,6 +9345,7 @@
 62C:\dev\suwul.pl\node_modules\ncp\test\symlink-fixtures\src\foo130614920630000000 0
 60C:\dev\suwul.pl\node_modules\ncp\test\regular-fixtures\src\a130614920630000000 0
 75C:\dev\suwul.pl\node_modules\micromatch\node_modules\is-number\package.json132775816817291741 0
+70C:\dev\suwul.pl\dist\projekt-lokalnej-grupy-dzialania.847b992c.css.map132778461175233965 0
 59C:\dev\suwul.pl\node_modules\core-js\features\math\atanh.js121436361000000000 0
 60C:\dev\suwul.pl\node_modules\ncp\test\regular-fixtures\src\c130614920630000000 0
 82C:\dev\suwul.pl\node_modules\jsdom\lib\jsdom\living\nodes\HTMLAudioElement-impl.js121436361000000000 0
@@ -9650,7 +9657,7 @@
 76C:\dev\suwul.pl\node_modules\micromatch\node_modules\fill-range\node_modules132775816801578218 1
 76C:\dev\suwul.pl\node_modules\micromatch\node_modules\fill-range\package.json132775816814901209 0
 90C:\dev\suwul.pl\node_modules\icss-utils\node_modules\source-map\lib\source-map-consumer.js131511695460000000 0
-38C:\dev\suwul.pl\dist\index.c38481c6.js132776393783676214 0
+38C:\dev\suwul.pl\dist\index.c38481c6.js132778456582636407 0
 73C:\dev\suwul.pl\node_modules\micromatch\node_modules\fill-range\README.md131374008690000000 0
 80C:\dev\suwul.pl\node_modules\@parcel\source-map\parcel_sourcemap_node\Cargo.toml121436361000000000 0
 50C:\dev\suwul.pl\node_modules\caseless\package.json132775816820572486 0
@@ -10604,7 +10611,7 @@
 48C:\dev\suwul.pl\node_modules\lodash\fp\pathEq.js121436361000000000 0
 48C:\dev\suwul.pl\node_modules\lodash\fp\pathOr.js121436361000000000 0
 47C:\dev\suwul.pl\node_modules\encodeurl\index.js131610638490000000 0
-55C:\dev\suwul.pl\dist\img-top-page-parallax.a16526ce.jpg132776393782665998 0
+55C:\dev\suwul.pl\dist\img-top-page-parallax.a16526ce.jpg132778456581786206 0
 46C:\dev\suwul.pl\node_modules\lodash\fp\pick.js121436361000000000 0
 49C:\dev\suwul.pl\node_modules\lodash\fp\pickAll.js121436361000000000 0
 47C:\dev\suwul.pl\node_modules\lodash\fp\plant.js121436361000000000 0
@@ -10624,6 +10631,7 @@
 50C:\dev\suwul.pl\node_modules\lodash\fp\restFrom.js121436361000000000 0
 48C:\dev\suwul.pl\node_modules\lodash\fp\result.js121436361000000000 0
 49C:\dev\suwul.pl\node_modules\lodash\fp\reverse.js121436361000000000 0
+47C:\dev\suwul.pl\dist\fzm-top-white.9aca1399.png132778469506395892 0
 50C:\dev\suwul.pl\node_modules\json5\lib\register.js131658179830000000 0
 47C:\dev\suwul.pl\node_modules\lodash\fp\round.js121436361000000000 0
 48C:\dev\suwul.pl\node_modules\lodash\fp\sample.js121436361000000000 0
@@ -11074,7 +11082,7 @@
 76C:\dev\suwul.pl\node_modules\jsdom\lib\jsdom\living\navigator\Plugin-impl.js121436361000000000 0
 94C:\dev\suwul.pl\node_modules\jsdom\lib\jsdom\living\mutation-observer\MutationObserver-impl.js121436361000000000 0
 84C:\dev\suwul.pl\node_modules\jsdom\lib\jsdom\living\helpers\create-event-accessor.js121436361000000000 0
-47C:\dev\suwul.pl\dist\fzm-top-green.99611597.png132776393782655977 0
+47C:\dev\suwul.pl\dist\fzm-top-green.99611597.png132778456582626394 0
 78C:\dev\suwul.pl\node_modules\jsdom\lib\jsdom\living\helpers\custom-elements.js121436361000000000 0
 78C:\dev\suwul.pl\node_modules\jsdom\lib\jsdom\living\helpers\dates-and-times.js121436361000000000 0
 53C:\dev\suwul.pl\node_modules\is-absolute-url\index.js121436361000000000 0
@@ -11731,7 +11739,7 @@
 66C:\dev\suwul.pl\node_modules\es-abstract\5\IsPropertyDescriptor.js121436361000000000 0
 73C:\dev\suwul.pl\node_modules\htmlnano\node_modules\postcss\lib\warning.js121436361000000000 0
 52C:\dev\suwul.pl\node_modules\htmlnano\lib\helpers.js121436361000000000 0
-31C:\dev\suwul.pl\dist\index.html132776409939432384 0
+31C:\dev\suwul.pl\dist\index.html132778469520969160 0
 56C:\dev\suwul.pl\node_modules\htmlnano\lib\presets\max.js121436361000000000 0
 57C:\dev\suwul.pl\node_modules\htmlnano\lib\presets\safe.js121436361000000000 0
 80C:\dev\suwul.pl\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.js121436361000000000 0
@@ -11811,7 +11819,7 @@
 60C:\dev\suwul.pl\node_modules\css-tree\lib\parser\sequence.js121436361000000000 0
 63C:\dev\suwul.pl\node_modules\highlight.js\styles\googlecode.css121436361000000000 0
 66C:\dev\suwul.pl\node_modules\highlight.js\styles\gradient-dark.css121436361000000000 0
-36C:\dev\suwul.pl\assets\css\main.scss132776392390497736 0
+36C:\dev\suwul.pl\assets\css\main.scss132778431075057324 0
 67C:\dev\suwul.pl\node_modules\highlight.js\styles\gradient-light.css121436361000000000 0
 65C:\dev\suwul.pl\node_modules\highlight.js\styles\gruvbox-dark.css121436361000000000 0
 53C:\dev\suwul.pl\node_modules\domain-browser\README.md121436361000000000 0
@@ -12430,7 +12438,7 @@
 51C:\dev\suwul.pl\node_modules\generic-names\index.js121436361000000000 0
 78C:\dev\suwul.pl\node_modules\caniuse-lite\data\features\css-overflow-anchor.js121436361000000000 0
 50C:\dev\suwul.pl\node_modules\generic-names\LICENSE121436361000000000 0
-44C:\dev\suwul.pl\dist\facebook-f.5fc0feaa.svg132776409929135026 0
+44C:\dev\suwul.pl\dist\facebook-f.5fc0feaa.svg132778469507856218 0
 78C:\dev\suwul.pl\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js121436361000000000 0
 55C:\dev\suwul.pl\node_modules\generic-names\package.json132775816817081702 0
 52C:\dev\suwul.pl\node_modules\generic-names\readme.md121436361000000000 0
@@ -12474,7 +12482,7 @@
 70C:\dev\suwul.pl\node_modules\caniuse-lite\data\features\import-maps.js121436361000000000 0
 84C:\dev\suwul.pl\node_modules\gauge\node_modules\is-fullwidth-code-point\package.json132775817015908168 0
 25C:\dev\suwul.pl\.cache\ae132755162123457589 1
-39C:\dev\suwul.pl\assets\css\subtabs.scss132776395391455326 0
+39C:\dev\suwul.pl\assets\css\subtabs.scss132778461174183736 0
 71C:\dev\suwul.pl\node_modules\gauge\node_modules\ansi-regex\package.json132775817015908168 0
 98C:\dev\suwul.pl\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json121436361000000000 0
 68C:\dev\suwul.pl\node_modules\gauge\node_modules\ansi-regex\readme.md131288365850000000 0
@@ -13810,7 +13818,7 @@
 62C:\dev\suwul.pl\node_modules\es-abstract\2015\DayWithinYear.js121436361000000000 0
 70C:\dev\suwul.pl\node_modules\es-abstract\2015\DefinePropertyOrThrow.js121436361000000000 0
 60C:\dev\suwul.pl\node_modules\caniuse-lite\data\regions\MY.js121436361000000000 0
-40C:\dev\suwul.pl\dist\kontakt.5ea0734d.js132776393783676214 0
+40C:\dev\suwul.pl\dist\kontakt.5ea0734d.js132778456582636407 0
 67C:\dev\suwul.pl\node_modules\es-abstract\2015\EnumerableOwnNames.js121436361000000000 0
 54C:\dev\suwul.pl\node_modules\es-abstract\2015\floor.js121436361000000000 0
 90C:\dev\suwul.pl\node_modules\@parcel\optimizer-cssnano\node_modules\postcss\lib\postcss.js121436361000000000 0
@@ -14318,7 +14326,7 @@
 57C:\dev\suwul.pl\node_modules\@parcel\workers\lib\Trace.js121436361000000000 0
 74C:\dev\suwul.pl\node_modules\css-tree\node_modules\source-map\package.json132775816820242404 0
 71C:\dev\suwul.pl\node_modules\css-tree\node_modules\source-map\README.md131508293880000000 0
-49C:\dev\suwul.pl\assets\img\logo\fzm-top-green.png132767221329495343 0
+49C:\dev\suwul.pl\assets\img\logo\fzm-top-green.png132778388259088613 0
 78C:\dev\suwul.pl\node_modules\caniuse-lite\data\features\es6-string-includes.js121436361000000000 0
 57C:\dev\suwul.pl\node_modules\@babel\core\lib\transform.js121012626000000000 0
 77C:\dev\suwul.pl\node_modules\css-tree\node_modules\source-map\source-map.d.ts131369414910000000 0
@@ -14450,7 +14458,7 @@
 58C:\dev\suwul.pl\node_modules\css-select\lib\index.d.ts.map121436361000000000 0
 48C:\dev\suwul.pl\node_modules\big.js\package.json132775816820602484 0
 58C:\dev\suwul.pl\node_modules\css-select\lib\procedure.d.ts121436361000000000 0
-49C:\dev\suwul.pl\assets\img\logo\fzm-top-white.png132767221163585699 0
+49C:\dev\suwul.pl\assets\img\logo\fzm-top-white.png132778388694947618 0
 62C:\dev\suwul.pl\node_modules\css-select\lib\procedure.d.ts.map121436361000000000 0
 56C:\dev\suwul.pl\node_modules\css-select\lib\procedure.js121436361000000000 0
 60C:\dev\suwul.pl\node_modules\css-select\lib\pseudo-selectors132775816770261191 1
@@ -14834,6 +14842,7 @@
 70C:\dev\suwul.pl\node_modules\bl\node_modules\readable-stream\README.md121436361000000000 0
 64C:\dev\suwul.pl\node_modules\core-js\stable\instance\trim-end.js121436361000000000 0
 65C:\dev\suwul.pl\node_modules\core-js\stable\instance\trim-left.js121436361000000000 0
+64C:\dev\suwul.pl\dist\assets\dokumenty\formularz-rekrutacyjny.pdf132778469506395892 0
 66C:\dev\suwul.pl\node_modules\core-js\stable\instance\trim-right.js121436361000000000 0
 55C:\dev\suwul.pl\node_modules\core-js\es\string\split.js121436361000000000 0
 59C:\dev\suwul.pl\node_modules\@babel\core\lib\config\util.js121012626000000000 0
@@ -15007,7 +15016,7 @@
 67C:\dev\suwul.pl\node_modules\core-js\modules\es.string.match-all.js121436361000000000 0
 65C:\dev\suwul.pl\node_modules\core-js\modules\es.string.pad-end.js121436361000000000 0
 67C:\dev\suwul.pl\node_modules\core-js\modules\es.string.pad-start.js121436361000000000 0
-41C:\dev\suwul.pl\dist\favicin.0fd595b8.ico132776408947310699 0
+41C:\dev\suwul.pl\dist\favicin.0fd595b8.ico132778469506395892 0
 61C:\dev\suwul.pl\node_modules\core-js\modules\es.string.raw.js121436361000000000 0
 74C:\dev\suwul.pl\node_modules\caniuse-lite\data\features\input-minlength.js121436361000000000 0
 64C:\dev\suwul.pl\node_modules\core-js\modules\es.string.repeat.js121436361000000000 0
@@ -15321,7 +15330,7 @@
 60C:\dev\suwul.pl\node_modules\core-js\features\weak-map\of.js121436361000000000 0
 72C:\dev\suwul.pl\node_modules\core-js\features\url-search-params\index.js121436361000000000 0
 55C:\dev\suwul.pl\node_modules\@parcel\optimizer-svgo\src132775816751056876 1
-40C:\dev\suwul.pl\dist\kontakt.5dd656d3.js132776409939432384 0
+40C:\dev\suwul.pl\dist\kontakt.5dd656d3.js132778469520969160 0
 62C:\dev\suwul.pl\node_modules\ajv\lib\dotjs\_limitProperties.js121436361000000000 0
 72C:\dev\suwul.pl\node_modules\core-js\features\typed-array\copy-within.js121436361000000000 0
 79C:\dev\suwul.pl\node_modules\caniuse-lite\data\features\alternate-stylesheet.js121436361000000000 0
@@ -16076,7 +16085,7 @@
 60C:\dev\suwul.pl\node_modules\caniuse-lite\data\regions\TO.js121436361000000000 0
 60C:\dev\suwul.pl\node_modules\caniuse-lite\data\regions\TR.js121436361000000000 0
 60C:\dev\suwul.pl\node_modules\caniuse-lite\data\regions\TW.js121436361000000000 0
-39C:\dev\suwul.pl\dist\projekt-suwul.html132776409939432384 0
+39C:\dev\suwul.pl\dist\projekt-suwul.html132778469520969160 0
 60C:\dev\suwul.pl\node_modules\caniuse-lite\data\regions\TZ.js121436361000000000 0
 60C:\dev\suwul.pl\node_modules\caniuse-lite\data\regions\UG.js121436361000000000 0
 60C:\dev\suwul.pl\node_modules\caniuse-lite\data\regions\VA.js121436361000000000 0
@@ -16411,7 +16420,7 @@
 73C:\dev\suwul.pl\node_modules\browserify-sign\node_modules\readable-stream132775816812120589 1
 49C:\dev\suwul.pl\node_modules\astring\CHANGELOG.md121436361000000000 0
 78C:\dev\suwul.pl\node_modules\browserify-sign\node_modules\safe-buffer\index.js121436361000000000 0
-38C:\dev\suwul.pl\dist\index.5b246dbb.js132776409939432384 0
+38C:\dev\suwul.pl\dist\index.5b246dbb.js132778469520969160 0
 89C:\dev\suwul.pl\node_modules\browserify-sign\node_modules\readable-stream\CONTRIBUTING.md121436361000000000 0
 96C:\dev\suwul.pl\node_modules\browserify-sign\node_modules\readable-stream\experimentalWarning.js121436361000000000 0
 83C:\dev\suwul.pl\node_modules\browserify-sign\node_modules\readable-stream\README.md121436361000000000 0
@@ -16423,7 +16432,7 @@
 111C:\dev\suwul.pl\node_modules\browserify-sign\node_modules\readable-stream\lib\internal\streams\end-of-stream.js121436361000000000 0
 103C:\dev\suwul.pl\node_modules\browserify-sign\node_modules\readable-stream\lib\internal\streams\state.js121436361000000000 0
 112C:\dev\suwul.pl\node_modules\browserify-sign\node_modules\readable-stream\lib\internal\streams\stream-browser.js121436361000000000 0
-41C:\dev\suwul.pl\dist\onas_x2.3d948e7f.png132776408946920613 0
+41C:\dev\suwul.pl\dist\onas_x2.3d948e7f.png132778469506395892 0
 45C:\dev\suwul.pl\node_modules\bl\BufferList.js121436361000000000 0
 104C:\dev\suwul.pl\node_modules\browserify-sign\node_modules\readable-stream\lib\internal\streams\stream.js121436361000000000 0
 86C:\dev\suwul.pl\node_modules\@babel\helper-compilation-targets\node_modules\semver\bin132775816749846614 1
@@ -16865,7 +16874,7 @@
 54C:\dev\suwul.pl\node_modules\@parcel\utils\lib\path.js121436361000000000 0
 62C:\dev\suwul.pl\node_modules\@parcel\utils\lib\prettifyTime.js121436361000000000 0
 68C:\dev\suwul.pl\node_modules\@parcel\utils\lib\relativeBundlePath.js121436361000000000 0
-42C:\dev\suwul.pl\dist\index.c38481c6.js.map132776393783736225 0
+42C:\dev\suwul.pl\dist\index.c38481c6.js.map132778456582706418 0
 61C:\dev\suwul.pl\node_modules\@parcel\utils\lib\relativeUrl.js121436361000000000 0
 73C:\dev\suwul.pl\node_modules\@parcel\utils\lib\replaceBundleReferences.js121436361000000000 0
 56C:\dev\suwul.pl\node_modules\@parcel\utils\lib\schema.js121436361000000000 0
@@ -17496,6 +17505,7 @@
 65C:\dev\suwul.pl\node_modules\@parcel\core\lib\summarizeRequest.js121436361000000000 0
 72C:\dev\suwul.pl\node_modules\@parcel\core\lib\TargetDescriptor.schema.js121436361000000000 0
 65C:\dev\suwul.pl\node_modules\@parcel\core\lib\UncommittedAsset.js121436361000000000 0
+45C:\dev\suwul.pl\dist\logo-niw-ul.73edcc50.png132778469502715063 0
 59C:\dev\suwul.pl\node_modules\@parcel\core\lib\Validation.js121436361000000000 0
 55C:\dev\suwul.pl\node_modules\@parcel\core\lib\worker.js121436361000000000 0
 70C:\dev\suwul.pl\node_modules\@parcel\core\lib\requests\AssetRequest.js121436361000000000 0
@@ -17508,7 +17518,7 @@
 77C:\dev\suwul.pl\node_modules\@parcel\core\lib\requests\WriteBundlesRequest.js121436361000000000 0
 67C:\dev\suwul.pl\node_modules\@parcel\core\lib\public\BundleGraph.js121436361000000000 0
 67C:\dev\suwul.pl\node_modules\@parcel\core\lib\public\Environment.js121436361000000000 0
-32C:\dev\suwul.pl\assets\dokumenty132776391563387427 1
+32C:\dev\suwul.pl\assets\dokumenty132778467282634266 1
 74C:\dev\suwul.pl\node_modules\@parcel\core\lib\public\MutableBundleGraph.js121436361000000000 0
 63C:\dev\suwul.pl\node_modules\@parcel\core\lib\public\Symbols.js121436361000000000 0
 59C:\dev\suwul.pl\node_modules\@parcel\config-default\LICENSE121436361000000000 0
@@ -17713,7 +17723,7 @@
 81C:\dev\suwul.pl\node_modules\@babel\types\lib\comments\inheritTrailingComments.js121012626000000000 0
 72C:\dev\suwul.pl\node_modules\@babel\types\lib\comments\removeComments.js121012626000000000 0
 60C:\dev\suwul.pl\node_modules\@babel\types\lib\clone\clone.js121012626000000000 0
-42C:\dev\suwul.pl\dist\linkedin.fff15bc2.svg132776409929195033 0
+42C:\dev\suwul.pl\dist\linkedin.fff15bc2.svg132778469519758891 0
 64C:\dev\suwul.pl\node_modules\@babel\types\lib\clone\cloneDeep.js121012626000000000 0
 70C:\dev\suwul.pl\node_modules\@babel\types\lib\clone\cloneWithoutLoc.js121012626000000000 0
 65C:\dev\suwul.pl\node_modules\@babel\types\lib\builders\builder.js121012626000000000 0
@@ -17901,7 +17911,7 @@
 73C:\dev\suwul.pl\node_modules\@babel\core\node_modules\semver\package.json132775816809329959 0
 70C:\dev\suwul.pl\node_modules\@babel\core\node_modules\semver\range.bnf121436361000000000 0
 70C:\dev\suwul.pl\node_modules\@babel\core\node_modules\semver\README.md121436361000000000 0
-36C:\dev\suwul.pl\dist\wydarzenia.html132776409939432384 0
+36C:\dev\suwul.pl\dist\wydarzenia.html132778469520969160 0
 67C:\dev\suwul.pl\node_modules\@babel\core\node_modules\ms\license.md121436361000000000 0
 69C:\dev\suwul.pl\node_modules\@babel\core\node_modules\ms\package.json132775816809299951 0
 72C:\dev\suwul.pl\node_modules\@babel\core\node_modules\json5\CHANGELOG.md121436361000000000 0
@@ -17970,6 +17980,7 @@
 45C:\dev\suwul.pl\node_modules\.bin\astring.ps1132775816821742752 0
 38C:\dev\suwul.pl\node_modules\.bin\atob132775816821762752 0
 42C:\dev\suwul.pl\node_modules\.bin\atob.cmd132775816821762752 0
+62C:\dev\suwul.pl\dist\assets\dokumenty\regulamin-rekrutacji.pdf132778469507986251 0
 46C:\dev\suwul.pl\node_modules\.bin\browserslist132775816822382882 0
 50C:\dev\suwul.pl\node_modules\.bin\browserslist.cmd132775816822382882 0
 50C:\dev\suwul.pl\node_modules\.bin\browserslist.ps1132775816822372893 0
@@ -18046,45 +18057,49 @@
 43C:\dev\suwul.pl\node_modules\.bin\which.cmd132775816822943016 0
 27C:\dev\suwul.pl\dist\assets132775854638177506 1
 48C:\dev\suwul.pl\dist\cechy-dyskusja.e68c509b.svg132775817413940439 0
-44C:\dev\suwul.pl\dist\facebook-f.bc34b952.svg132776393782655977 0
-41C:\dev\suwul.pl\dist\favicin.50d8e8be.ico132776393782655977 0
+44C:\dev\suwul.pl\dist\facebook-f.bc34b952.svg132778456581786206 0
+41C:\dev\suwul.pl\dist\favicin.50d8e8be.ico132778456581446131 0
 47C:\dev\suwul.pl\dist\fzm-top-green.f28f3c3f.png132776408943959952 0
-47C:\dev\suwul.pl\dist\fzm-top-white.32906e5b.png132776393782545956 0
+47C:\dev\suwul.pl\dist\fzm-top-white.32906e5b.png132778456581446131 0
 47C:\dev\suwul.pl\dist\fzm-top-white.515e388d.png132776408947310699 0
-43C:\dev\suwul.pl\dist\go-to-top.faf489bf.png132776408943959952 0
-55C:\dev\suwul.pl\dist\img-top-page-parallax.89949b30.jpg132776408947320706 0
-46C:\dev\suwul.pl\dist\img-top-page.a2397923.jpg132776408943959952 0
-46C:\dev\suwul.pl\dist\img-top-page.f7bb2209.jpg132776393782655977 0
-42C:\dev\suwul.pl\dist\index.18c7861a.js.map132776409939472406 0
-42C:\dev\suwul.pl\dist\index.5b246dbb.js.map132776409939472406 0
-39C:\dev\suwul.pl\dist\index.c9abff5c.css132776393783676214 0
-43C:\dev\suwul.pl\dist\index.c9abff5c.css.map132776393783736225 0
-33C:\dev\suwul.pl\dist\kontakt.html132776409939432384 0
-38C:\dev\suwul.pl\dist\index.ca412eac.js132776393783676214 0
-42C:\dev\suwul.pl\dist\index.ca412eac.js.map132776393783736225 0
+43C:\dev\suwul.pl\dist\go-to-top.faf489bf.png132778469507986251 0
+55C:\dev\suwul.pl\dist\img-top-page-parallax.89949b30.jpg132778469506395892 0
+46C:\dev\suwul.pl\dist\img-top-page.a2397923.jpg132778469507986251 0
+46C:\dev\suwul.pl\dist\img-top-page.f7bb2209.jpg132778456582626394 0
+42C:\dev\suwul.pl\dist\index.18c7861a.js.map132778469521019178 0
+42C:\dev\suwul.pl\dist\index.5b246dbb.js.map132778469521019178 0
+39C:\dev\suwul.pl\dist\index.c9abff5c.css132778456582636407 0
+43C:\dev\suwul.pl\dist\index.c9abff5c.css.map132778456582696410 0
+33C:\dev\suwul.pl\dist\kontakt.html132778469520969160 0
+38C:\dev\suwul.pl\dist\index.ca412eac.js132778456582636407 0
+42C:\dev\suwul.pl\dist\index.ca412eac.js.map132778456582696410 0
 44C:\dev\suwul.pl\dist\inne-formy.0c171924.png132775817413740384 0
 38C:\dev\suwul.pl\dist\kadra.5ea0734d.js132775842846440402 0
 31C:\dev\suwul.pl\dist\kadra.html132775842846440402 0
-44C:\dev\suwul.pl\dist\kontakt.5dd656d3.js.map132776409939472406 0
-44C:\dev\suwul.pl\dist\kontakt.5ea0734d.js.map132776393783736225 0
-42C:\dev\suwul.pl\dist\linkedin.c3d7a16e.svg132776393782595960 0
-44C:\dev\suwul.pl\dist\list-index.1bd45899.png132776408946920613 0
-44C:\dev\suwul.pl\dist\list-index.a07787b7.png132776393782655977 0
-38C:\dev\suwul.pl\dist\loga.c11da3fd.jpg132776408943959952 0
-38C:\dev\suwul.pl\dist\loga.da7c60e7.jpg132776393782595960 0
-42C:\dev\suwul.pl\dist\niw-logo.257f73eb.png132776393782655977 0
-42C:\dev\suwul.pl\dist\niw-logo.db8941b5.png132776408946920613 0
-41C:\dev\suwul.pl\dist\onas_x2.df6e7ca7.png132776393782665998 0
+44C:\dev\suwul.pl\dist\kontakt.5dd656d3.js.map132778469521009175 0
+44C:\dev\suwul.pl\dist\kontakt.5ea0734d.js.map132778456582696410 0
+42C:\dev\suwul.pl\dist\linkedin.c3d7a16e.svg132778456581446131 0
+44C:\dev\suwul.pl\dist\list-index.1bd45899.png132778469502715063 0
+44C:\dev\suwul.pl\dist\list-index.a07787b7.png132778456581446131 0
+38C:\dev\suwul.pl\dist\loga.c11da3fd.jpg132778469503665282 0
+38C:\dev\suwul.pl\dist\loga.da7c60e7.jpg132778456581616182 0
+41C:\dev\suwul.pl\dist\logo-ue.0c11c739.jpg132778456581786206 0
+41C:\dev\suwul.pl\dist\logo-ue.1b5ba456.jpg132778469507986251 0
+42C:\dev\suwul.pl\dist\niw-logo.257f73eb.png132778456581446131 0
+42C:\dev\suwul.pl\dist\niw-logo.db8941b5.png132778469506395892 0
+41C:\dev\suwul.pl\dist\onas_x2.df6e7ca7.png132778456581446131 0
 45C:\dev\suwul.pl\dist\organizacja.c8accb39.css132775842633317245 0
 49C:\dev\suwul.pl\dist\organizacja.c8accb39.css.map132775842633387253 0
 37C:\dev\suwul.pl\dist\organizacja.html132775842633317245 0
-48C:\dev\suwul.pl\dist\paralax-wiedza.6a652182.jpg132776408943999963 0
-48C:\dev\suwul.pl\dist\paralax-wiedza.a6da6e43.jpg132776393782595960 0
+48C:\dev\suwul.pl\dist\paralax-wiedza.6a652182.jpg132778469503665282 0
+48C:\dev\suwul.pl\dist\paralax-wiedza.a6da6e43.jpg132778456581616182 0
 41C:\dev\suwul.pl\dist\partner.423241f1.png132775817414660609 0
 51C:\dev\suwul.pl\dist\pomysl-realizacja.b8839a24.png132775817413420321 0
+66C:\dev\suwul.pl\dist\projekt-lokalnej-grupy-dzialania.58dc546b.css132778469520969160 0
+66C:\dev\suwul.pl\dist\projekt-lokalnej-grupy-dzialania.847b992c.css132778461175213958 0
 66C:\dev\suwul.pl\dist\projekt-lokalnej-grupy-dzialania.89fb59ba.css132776409939432384 0
 70C:\dev\suwul.pl\dist\projekt-lokalnej-grupy-dzialania.89fb59ba.css.map132776409939472406 0
-58C:\dev\suwul.pl\dist\projekt-lokalnej-grupy-dzialania.html132776409939432384 0
+58C:\dev\suwul.pl\dist\projekt-lokalnej-grupy-dzialania.html132778469520969160 0
 42C:\dev\suwul.pl\dist\promocja.0f768033.png132775817413390310 0
 36C:\dev\suwul.pl\dist\realizacje.html132775842846440402 0
 43C:\dev\suwul.pl\dist\style.e308ff8e.css.map132755176566033250 0
@@ -18093,12 +18108,13 @@
 43C:\dev\suwul.pl\dist\szkolenia.c8accb39.css132775842846440402 0
 47C:\dev\suwul.pl\dist\szkolenia.c8accb39.css.map132775842846510435 0
 35C:\dev\suwul.pl\dist\szkolenia.html132775842846440402 0
-53C:\dev\suwul.pl\dist\uniwersytety-ludowe.bf9d0be9.jpg132776393782545956 0
-39C:\dev\suwul.pl\dist\video.ce863c9d.mp4132776368720013008 0
-39C:\dev\suwul.pl\dist\video.f6c9f0c9.mp4132776408947330714 0
-37C:\dev\suwul.pl\dist\assets\dokumenty132775854638187509 1
+53C:\dev\suwul.pl\dist\uniwersytety-ludowe.bf9d0be9.jpg132778371928730791 0
+39C:\dev\suwul.pl\dist\video.ce863c9d.mp4132778371930561203 0
+39C:\dev\suwul.pl\dist\video.f6c9f0c9.mp4132778469503675290 0
+37C:\dev\suwul.pl\dist\assets\dokumenty132778469508006257 1
+77C:\dev\suwul.pl\dist\assets\dokumenty\deklaracja-uczestnictwa-w-projekcie.pdf132778469502715063 0
 58C:\dev\suwul.pl\dist\assets\dokumenty\referencje-sidra.pdf132775854638187509 0
-25C:\dev\suwul.pl\assets\js132775809702418455 1
+25C:\dev\suwul.pl\assets\js132778462982315837 1
 30C:\dev\suwul.pl\assets\modules132768086276806866 1
 38C:\dev\suwul.pl\assets\video\thumb.jpg131129667000000000 0
 33C:\dev\suwul.pl\assets\js\form.js132775835148392189 0
@@ -18112,7 +18128,7 @@
 43C:\dev\suwul.pl\assets\img\img-top-page.jpg132767227187133200 0
 41C:\dev\suwul.pl\assets\img\list-index.png132767223921156670 0
 41C:\dev\suwul.pl\assets\img\list-index.svg132767224010955048 0
-31C:\dev\suwul.pl\assets\img\logo132776382841225430 1
+31C:\dev\suwul.pl\assets\img\logo132778448115026005 1
 43C:\dev\suwul.pl\assets\img\minus-cirlce.png132767224455251499 0
 43C:\dev\suwul.pl\assets\img\newsletter_1.png132767225516321331 0
 38C:\dev\suwul.pl\assets\img\onas_x2.jpg132767223646043647 0
@@ -18124,6 +18140,7 @@
 47C:\dev\suwul.pl\assets\img\szkolenie-3-1-5x.jpg132767228993734497 0
 47C:\dev\suwul.pl\assets\img\szkolenie-3-1-5x.png132767228813351233 0
 46C:\dev\suwul.pl\assets\img\socials\twitter.svg132767229609577402 0
+43C:\dev\suwul.pl\assets\img\logo\logo-ue.jpg130858776000000000 0
 44C:\dev\suwul.pl\assets\img\logo\niw-logo.png132776348247084326 0
 55C:\dev\suwul.pl\assets\img\logo\uniwersytety-ludowe.jpg132445410680000000 0
 45C:\dev\suwul.pl\assets\img\ikony\fundusze.png132767216213667318 0
@@ -18135,6 +18152,9 @@
 51C:\dev\suwul.pl\assets\img\cechy\cechy-dyskusja.svg132767224723384797 0
 53C:\dev\suwul.pl\assets\img\cechy\cechy-referencje.svg132767224723795007 0
 54C:\dev\suwul.pl\assets\img\cechy\cechy-zadowolenie.svg132767224723384797 0
+72C:\dev\suwul.pl\assets\dokumenty\deklaracja-uczestnictwa-w-projekcie.pdf132778464624560438 0
+59C:\dev\suwul.pl\assets\dokumenty\formularz-rekrutacyjny.pdf132778464616458615 0
+57C:\dev\suwul.pl\assets\dokumenty\regulamin-rekrutacji.pdf132778464605246101 0
 25C:\dev\suwul.pl\.cache\00132755162122807272 1
 25C:\dev\suwul.pl\.cache\02132755162122827263 1
 25C:\dev\suwul.pl\.cache\03132755162122847273 1

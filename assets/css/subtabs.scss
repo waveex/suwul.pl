@@ -20,6 +20,8 @@
         color: #01a79d;
         font-size: 25px;
         margin-bottom: 35px;
+        text-transform: uppercase;
+        max-width: 1200px;
     }
 }
 .content {
@@ -92,7 +94,13 @@ padding: 60px 0;
         }
     }
 }
-
+.contact__mails {
+    display: flex;
+    flex-direction: column;
+}
+.contact__grid--link {
+    margin-top: 10px;
+}
 .accordion {
     &__title{
         width: 100%;
@@ -116,6 +124,10 @@ padding: 60px 0;
     }
 
 }
+#map{
+    height: 400px;
+    width: 100%;
+}
 #contact .about {
     padding: 0;
 }
@@ -123,6 +135,9 @@ padding: 60px 0;
     margin: 50px auto;
 }
 @media (max-width: 1270px ) {
+    .about__h1{
+        max-width: 760px;
+    }
     header{
         gap: unset;
         justify-content: space-around;
@@ -141,3 +156,7 @@ padding: 60px 0;
     flex-direction: column;
     }
 }
+@media (max-width: 768px ) {
+    .about__h1{
+        max-width: 300px; }
+    }
