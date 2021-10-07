@@ -9,20 +9,37 @@
     max-width: 400px;
     margin:0 20px;
 }
+.about__description p {
+    margin: 10px;
+}
 .banner {
     background: url(../img/img-top-page.jpg) no-repeat;
     max-width: 1920px;
     width: 100%;
     height: 420px;
+    background-position: 0px -70px;
+    filter: brightness(50%);
 }
 .about {
     &__h1 {
+        text-align: center;
         color: #01a79d;
         font-size: 25px;
         margin-bottom: 35px;
         text-transform: uppercase;
         max-width: 1200px;
     }
+}
+.about__description p, .about__description li {
+    margin: 10px;
+    font-size: 18px;
+}
+.documents {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+
 }
 .content {
     max-width: 1230px;
