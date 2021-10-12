@@ -17,7 +17,11 @@ html {
     width: 100%;
     @include inter();
 }
+button {
+    background: none;
+    border: none;
 
+}
 body {
     font-size: 16px;
     height: 100vh;
@@ -367,7 +371,37 @@ margin-top: 20px;
         }
     }
 }
+.text-scaler{
+    display: flex;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    background: #fff;
 
+}
+.text-scaler__item{
+padding: 10px;
+&--defualt {
+    font-size: 16px !important;
+}
+&--mid {
+   font-size: 22px !important;
+}
+&--big {
+font-size: 32px !important;
+}
+&:hover{
+    color: #01a79d;
+
+}
+}
+
+ .text-scaler-mid *:not(.text-scaler__item--mid) {
+     font-size: 30px !important;
+ }
+ .text-scaler-big * {
+    font-size: 40px !important;
+}
 .statistics {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
