@@ -149,19 +149,16 @@ header {
     top: 0;
 }
 .logo {
-    background: url(../img/logo/fzm-top-white.png) no-repeat;
+    background: url(../img/logo/suwul-logo-blue.png) no-repeat;
     background-size: contain;
-    height: 135px;
+    height: 105px;
     max-width: 210px;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     background-position: center;
-    &:hover{
-        background: url(../img/logo/fzm-top-green.png) no-repeat;
-        background-size: contain;
-    }
+
 }
 
 .navigation__submenu   {
@@ -585,13 +582,7 @@ footer{
     background: #2D2D2D;
 
   }
-  .dark  .logo {
-    background: url(../img/logo/fzm-top-green.png) no-repeat;
-    background-size: contain;
-    height: 135px;
-    max-width: 210px;
-    width: 100%;
-  }
+
   /***************************RWD***************/
   .social{
   &__list  {  display: flex;
