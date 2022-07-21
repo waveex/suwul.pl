@@ -788,3 +788,21 @@ margin-left: 10px;
     display: block;
 
 }
+.project {
+    max-width: 1630px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+}
+.project img {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.add-data {
+    font-weight: bold;
+padding-bottom: 30px;
+}
